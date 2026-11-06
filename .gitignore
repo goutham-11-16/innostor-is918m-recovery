@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+*.tmp
+*.log
+
+# Test files & disk dumps
+*.bin
+*.img
+*.iso
+*.pcap
+*.pcapng
+
+# OS Generated
+.DS_Store
+Thumbs.db
+ehthumbs.db
